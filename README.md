@@ -5,9 +5,9 @@ I never decided on a name for it, I've referred to it as 'Negative Space', 'Flip
 A University project I created in 2015.<br/>
 Made in GameMaker
 
-The actual main objective was to produce a report of the development of this game, that report can be found on the root (Black and White World Game.pdf)
+The actual main objective of the assingment was to produce a report of the development of this game, that report can be found on the root (Black and White World Game.pdf)
 
-Commentary playthrough (recorded in 2019):<br/>
+Commentary playthrough:<br/>
 https://youtu.be/HzXjLttYBNs
 
 # Controls
