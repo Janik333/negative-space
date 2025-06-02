@@ -35,5 +35,5 @@ Use Enter/Return to confirm number of players
 **Interact**: B button
 
 ## Other Controls
-I also seemed to have left some debug buttons in in jump to different levels,number keys, numpad keys, function keys.<br/>
+I also seemed to have left some debug buttons in to jump to different levels, number keys, numpad keys, function keys.<br/>
 Backspace restarts a level (Although the levels were designed in a way so you don't have to restart them)
