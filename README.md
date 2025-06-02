@@ -1,35 +1,39 @@
 # negative-space
-Prototype for an original puzzle game.
+Prototype for an original puzzle game.<br/>
 I never decided on a name for it, I've referred to it as 'Negative Space', 'Flip', and the very creative 'Black and White World Game'
 
-A University project I created in 2015.
+A University project I created in 2015.<br/>
 Made in GameMaker
 
 The actual main objective was to produce a report of the development of this game, that report can be found on the root (Black and White World Game.pdf)
 
-Commentary playthrough (recorded in 2019):
+Commentary playthrough (recorded in 2019):<br/>
 https://youtu.be/HzXjLttYBNs
 
 # Controls
 
-Keyboard:
-Player1:
-Walk Left: left arrow
-Walk right: right arrow
-Jump: up arrow
-Interact: numpad 0
+## Keyboard:<br/>
 
-Player2:
-Walk Left: A key
-Walk right: D key
-Jump: W key
-Interact: Left Shift
+Use Enter/Return to confirm number of players
 
-Controller (Xinput):
-Walk left: left
-Walk right: right
-Jump: A button
-Interact: B button
+**Player1**:<br/>
+**Walk Left**: left arrow<br/>
+**Walk right**: right arrow<br/>
+**Jump**: up arrow<br/>
+**Interact**: numpad 0
 
-I also seemed to have left some debug buttons in in jump to different levels,number keys, numpad keys, function keys.
+**Player2**:<br/>
+**Walk** Left: A key<br/>
+**Walk** right: D key<br/>
+**Jump**: W key<br/>
+**Interact**: Left Shift
+
+## Controller (Xinput):<br/>
+**Walk left**: left<br/>
+**Walk right**: right<br/>
+**Jump**: A button<br/>
+**Interact**: B button
+
+## Other Controls
+I also seemed to have left some debug buttons in in jump to different levels,number keys, numpad keys, function keys.<br/>
 Backspace restarts a level (Although the levels were designed in a way so you don't have to restart them)
