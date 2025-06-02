@@ -9,3 +9,27 @@ The actual main objective was to produce a report of the development of this gam
 
 Commentary playthrough (recorded in 2019):
 https://youtu.be/HzXjLttYBNs
+
+# Controls
+
+Keyboard:
+Player1:
+Walk Left: left arrow
+Walk right: right arrow
+Jump: up arrow
+Interact: numpad 0
+
+Player2:
+Walk Left: A key
+Walk right: D key
+Jump: W key
+Interact: Left Shift
+
+Controller (Xinput):
+Walk left: left
+Walk right: right
+Jump: A button
+Interact: B button
+
+I also seemed to have left some debug buttons in in jump to different levels,number keys, numpad keys, function keys.
+Backspace restarts a level (Although the levels were designed in a way so you don't have to restart them)
